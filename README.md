@@ -14,8 +14,8 @@ ALLconf(),Lift():对规则进行评价，可使用Lift、卡方和其它教材�
 对挖掘结果进行分析  
 可视化展示    
   
-DMwork3.py
-采用的数据集是Hotel booking demand, 酒店预订需求
+DMwork3.py  
+采用的数据集是Hotel booking demand, 酒店预订需求  
 基本情况：城市酒店和假日酒店预订需求和入住率比较；  
 用户行为：提前预订时间、入住时长、预订间隔、餐食预订情况；  
 一年中最佳预订酒店时间；  
