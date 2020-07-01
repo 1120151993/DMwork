@@ -21,7 +21,11 @@ DMwork3.py
 一年中最佳预订酒店时间；  
 利用Logistic预测酒店预订。    
 price():计算月份的平均人均价格，判断最好的预定酒店的时间
-forecast():线性逻辑回归预测
+forecast():线性逻辑回归预测  
+
+DMwork4.py
+采用的数据集是abalone_benchmarks和wine_benchmarks  
+使用Python Outlier Detection (PyOD)进行分析
 
 
 
